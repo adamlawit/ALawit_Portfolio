@@ -5,7 +5,7 @@ focused on renewable energy systems, energy storage, and power system analytics.
 
 ---
 
-## 📁 Projects
+## Projects
 
 ### Electricity Load & Time Series Analysis
 **Repository:** energy-load-analysis  
@@ -13,19 +13,19 @@ Status: Planned
 
 ---
 
-### 🌞 Solar PV Performance & Variability
-**Repository:** solar-pv-performance  
+### Solar PV Production & Variability
+**Repository:** solar-pv-analytics  
 Status: Planned
 
 ---
 
-### 🔋 Battery Energy Storage Analytics
+### Battery Energy Storage Analytics
 **Repository:** bess-analytics  
 Status: Planned
 
 ---
 
-### 💸 Energy Market & ISO/RTO Analysis
+### Energy Market & ISO/RTO Analysis
 **Repository:** energy-market-prices  
 Status: Planned
 
