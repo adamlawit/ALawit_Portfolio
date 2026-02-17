@@ -1,4 +1,4 @@
-# Adam Lawit_Portfolio
+# ALawit_Portfolio
 
 This repository serves as a centralized index of my energy analytics projects,
 focused on renewable energy systems, energy storage, and power system analytics.
