@@ -28,8 +28,3 @@ Status: Planned
 ### Energy Market & ISO/RTO Analysis
 **Repository:** energy-market-prices  
 Status: Planned
-
----
-
-## 🛠 Tools
-Python | SQL | pandas | NumPy | statsmodels | PVSyst | SAM
