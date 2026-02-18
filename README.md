@@ -8,7 +8,7 @@ focused on renewable energy systems, energy storage, and power system analytics.
 ## Projects
 
 ### Electricity Load & Time Series Analysis
-**Repository:** energy-demand
+**Repository:** energy-demand  
 Status: Complete
 
 ---
