@@ -13,6 +13,12 @@ Status: Complete
 
 ---
 
+### U.S. Wind Turbine Dashboard Analysis
+**Repository:** wind-turbines-dashboard  
+Status: Complete
+
+---
+
 ### Solar PV Production & Variability
 **Repository:** solar-pv-analytics  
 Status: Planned
