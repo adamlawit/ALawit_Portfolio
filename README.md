@@ -13,8 +13,14 @@ Status: Complete
 
 ---
 
-### U.S. Wind Turbine Dashboard Analysis
+### Tableau Wind Turbine Dashboard Analysis
 **Repository:** wind-turbines-dashboard  
+Status: Complete
+
+---
+
+### API Dashboard
+**Repository:** api-renewables-dash  
 Status: Complete
 
 ---
@@ -29,8 +35,3 @@ Status: Planned
 **Repository:** bess-analytics  
 Status: Planned
 
----
-
-### Energy Market & ISO/RTO Analysis
-**Repository:** energy-market-prices  
-Status: Planned
